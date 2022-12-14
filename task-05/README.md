@@ -4,6 +4,6 @@ I initially found this task and was about to skip it but then the last shot i de
 This was a really good task.
 
 ### Working Sample
-This video shows how the final application should be like
+This gif shows how the final application should be like
 
-
+![working gif](https://user-images.githubusercontent.com/116453081/207653259-bf304792-c2cc-4bda-97dc-0332cd6da544.gif)
