@@ -2,4 +2,5 @@
 
 This task was really fun, seeing all the amFoss repositories getting stared.I've added the screenshot of the final output above.
 
-https://raw.githubusercontent.com/Aaryanajith/amfoss-tasks/main/task-01/screenshot.png?token=GHSAT0AAAAAAB3DD25KNHYG6EJOEK5KZA6YY4Z6UCA
+
+![Screenshot from 2022-11-12 21-58-44](https://user-images.githubusercontent.com/116453081/207647430-5f0d1642-b33e-444d-8df8-01ad5f83a93a.png)
