@@ -1,0 +1,3 @@
+#  Install Ubuntu 20.04 [Desktop]
+
+I can say this was the easiest task I did, and it was fun installing ubuntu, making a bootable device, creating partitions and manymore. Now it has almost been a month and I'm enjoying using Ubuntu, ofcourse there was a learing curve in figuring things out in ubuntu, but it was a great learning experience. I myself did the installation two times and I dual booted three of my friend's laptop myself and now it has become like a muscle memory for me. I used this video to help me dual boot for the first time (https://www.youtube.com/watch?v=QKn5U2esuRk)
