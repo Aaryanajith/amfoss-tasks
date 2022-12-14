@@ -1,7 +1,10 @@
 # amfoss-tasks
-# Aaryan A
 
-Hi, I'm Aaryan A from Coimbatore, Tamil Nadu, First Year B-Tech S1 ECE student(2022-2026)
+
+**Aaryan A**
+>ECE 2022-26,
+>Amrita Vishwa Vidyapeetham,
+>Amritapuri Campus.
 
 
 | Task List | Description | Status |
