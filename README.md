@@ -6,7 +6,7 @@ Hi, I'm Aaryan A from Coimbatore, Tamil Nadu, First Year B-Tech S1 ECE student
 
 | Task List | Description | Status |
 |---|---|---|
-| [Task-00]()| Installing Ubuntu | Completed |
+| [Task-00](https://github.com/Aaryanajith/amfoss-tasks/tree/main/task-01)| Installing Ubuntu | Completed |
 | [Task-01]()| Star amFOSS repositories | Completed |
 | [Task-02]()| Terminal Hunt | Completed |
 | [Task-03]()| Hacker Rank Programming | Completed 8 out of Questions |
