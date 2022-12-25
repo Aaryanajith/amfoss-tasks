@@ -210,6 +210,7 @@ class ArrowKey extends StatelessWidget {
   final Function(LongPressEndDetails) onLongPressEnd;
 
   @override
+  
   Widget build(BuildContext context) {
     return GestureDetector(
       onTapDown: onTapDown,
