@@ -78,7 +78,7 @@ class Background extends SpriteComponent with HasGameRef {
   }
 }
 
-class PritiGame extends FlameGame {
+class MyGame extends FlameGame {
   Bunny bunny = Bunny();
   Background background = Background();
 
